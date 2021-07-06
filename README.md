@@ -1,4 +1,10 @@
 ### Hi there 👋
+### My name is Luis Felipe Cracco Da Silva
+
+- 💻 I am a computer engineering student at IFSP.
+- 💡 I'm always looking for new experiences.
+- 💖 I'm passionate about technology.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeCracco&layout=compact)](https://github.com/LuisFelipeCracco/LuisFelipeCracco)
 
